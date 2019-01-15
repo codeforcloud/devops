@@ -1,4 +1,4 @@
-# Draft cours DevOps ECE
+# Draft cours DevOps
 
 ## Introduction
 ### Qui on est 

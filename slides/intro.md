@@ -1,4 +1,4 @@
-# Cours DevOps ECE
+# Cours DevOps
 #### By
 ##### Laurent Grangeau & Arthur Mauvezin
 
